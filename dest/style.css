@@ -1,0 +1,29 @@
+/* Testing autoprefixer */
+:-webkit-full-screen a {
+    display: flex
+}
+:-moz-full-screen a {
+    display: flex
+}
+:-ms-fullscreen a {
+    display: flex
+}
+:fullscreen a {
+    display: flex
+}
+
+.autoprefixer {
+    display: flex;
+}
+
+/* Testing cssnext */
+
+.cssnext {
+    background: rgba(255, 0, 0, 0.9);
+}
+
+/* Testing precss */
+
+.precss {
+background: green
+}

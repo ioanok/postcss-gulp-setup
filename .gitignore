@@ -1,0 +1,24 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+#Icon?
+ehthumbs.db
+Thumbs.db
+
+# PhpStorm-Project folder
+/.idea/
+
+# Netbeans-Project folder
+/nbproject/
+
+# Node generated files
+.components
+/node_modules/
+.npm-debug.log
+
+# Composer
+#/composer.phar
+#/vendor/
